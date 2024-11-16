@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729370813 source:d:\iset\s3\mini projet\mini projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
